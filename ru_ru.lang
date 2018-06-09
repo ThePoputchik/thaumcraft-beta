@@ -1,11 +1,11 @@
 #ru_RU.lang file [Thaumcraft-1.12.2-6.1.BETA13]. Translated by TimeConqueror, groting, Daddy Lappy & DCV_Hacker
-# Items
+# Предметы
 ###################################
 #
 # Curios
 #
 item.thaumonomicon.normal.name=Таумономикон
-item.thaumonomicon.cheat.name=Cheater's Thaumonomicon
+item.thaumonomicon.cheat.name=Читерский Таумонамикон
 item.curio.arcane.name=Arcane Curiosity
 item.curio.preserved.name=Preserved Curiosity
 item.curio.eldritch.name=Eldritch Curiosity
@@ -13,10 +13,10 @@ item.curio.ancient.name=Ancient Curiosity
 item.curio.twisted.name=Twisted Curiosity
 item.curio.knowledge.name=Illuminating Curiosity
 item.curio.rites.name=Crimson Rites
-item.curio.text=What knowledge does this hold?
-item.loot_bag.common.name=Common Treasure
-item.loot_bag.uncommon.name=Uncommon Treasure
-item.loot_bag.rare.name=Rare Treasure
+item.curio.text=Какие знания он содержит?
+item.loot_bag.common.name=Обычное Сокровище
+item.loot_bag.uncommon.name=Необычное Сокровище
+item.loot_bag.rare.name=Редкое Сокровище
 tc.lootbag=Click to open or keep to trade
 item.primordial_pearl.mote.name=Primordial Mote
 item.primordial_pearl.nodule.name=Primordial Nodule
@@ -37,37 +37,37 @@ item.celestial_notes.moon_6.text=Луна, Убывающая
 item.celestial_notes.moon_7.text=Луна, Третья четверть
 item.celestial_notes.moon_8.text=Луна, Старая
 #
-# Resources
+# Ресурсы
 #
 item.amber.name=Янтарь
 item.quicksilver.name=Ртуть
 item.crystal_essence.name=Вис-кристалл
-item.ingot.thaumium.name=Thaumium Ingot
-item.ingot.void.name=Void Metal Ingot
+item.ingot.thaumium.name=Таум Слиток
+item.ingot.void.name=Слиток Пустотного Металла
 item.ingot.brass.name=Alchemical Brass Ingot
-item.nugget.iron.name=Iron Nugget
-item.nugget.copper.name=Copper Nugget
-item.nugget.tin.name=Tin Nugget
-item.nugget.silver.name=Silver Nugget
-item.nugget.lead.name=Lead Nugget
+item.nugget.iron.name=Железный Самородок
+item.nugget.copper.name=Медный Самородок
+item.nugget.tin.name=Оловянный Самородок
+item.nugget.silver.name=Серебрянный Самородок
+item.nugget.lead.name=Свинцовый Самородок
 item.nugget.quicksilver.name=Капля ртути
 item.nugget.thaumium.name=Thaumium Nugget
 item.nugget.void.name=Void Metal Nugget
 item.nugget.brass.name=Alchemical Brass Nugget
 item.nugget.quartz.name=Quartz Sliver
 item.nugget.rareearth.name=Rare Earths
-item.cluster.iron.name=Native Iron Cluster
-item.cluster.copper.name=Native Copper Cluster
-item.cluster.tin.name=Native Tin Cluster
-item.cluster.silver.name=Native Silver Cluster
+item.cluster.iron.name=Самородный Железный Кластер
+item.cluster.copper.name=Самородный Медный Кластер
+item.cluster.tin.name=Самородный Оловянный Кластер
+item.cluster.silver.name=Самородный Серебрянный Кластер
 item.cluster.lead.name=Native Lead Cluster
 item.cluster.cinnabar.name=Native Cinnabar Cluster   
-item.cluster.gold.name=Native Gold Cluster
-item.cluster.quartz.name=Native Quartz Cluster
-item.filter.name=Essentia Filter
-item.morphic_resonator.name=Morphic Resonator
+item.cluster.gold.name=Самородный Золотой Кластер
+item.cluster.quartz.name=Самородный Кварцевый Кластер
+item.filter.name=Фильтр Эссенций
+item.morphic_resonator.name=Морфический Резонатор
 item.tallow.name=Magic Tallow
-item.void_seed.name=Void Seed
+item.void_seed.name=Семя Пустоты
 item.salis_mundus.name=Salis Mundus
 item.primal_charm.name=Primal Charm
 item.mirrored_glass.name=Mirrored Glass
@@ -82,14 +82,14 @@ item.mind.clockwork.name=Clockwork Mind
 item.mind.biothaumic.name=Biothaumic Mind
 item.vis_resonator.name=Вис-резонатор
 #
-# Consumables
+# Используемое
 #
-item.alumentum.name=Alumentum
-item.chunk.chicken.name=Chicken Nugget
-item.chunk.beef.name=Beef Nugget
-item.chunk.pork.name=Pork Nugget
-item.chunk.fish.name=Fish Nugget
-item.chunk.rabbit.name=Rabbit Nugget
+item.alumentum.name=Алюментум
+item.chunk.chicken.name=Куринный Кусочек
+item.chunk.beef.name=Говяжий Кусочек
+item.chunk.pork.name=Свиной Кусочек
+item.chunk.fish.name=Рыбный Кусочек
+item.chunk.rabbit.name=Крольичий Кусочек
 item.chunk.mutton.name=Mutton Nugget
 item.brain.name=Мозг зомби
 item.triple_meat_treat.name=Triple Meat Treat
@@ -104,7 +104,7 @@ item.bucket_pure.name=Bucket of Purifying Fluid
 item.bottle_taint.name=Bottle of Taint
 item.sanity_soap.name=Sanitizing Soap
 #
-# Armor
+# Броня
 #
 item.goggles.name=Очки откровения
 item.fortress_helm.name=Thaumium Fortress Helm
@@ -138,29 +138,29 @@ item.crimson_praetor_helm.name=Crimson Praetor Helm
 item.crimson_praetor_chest.name=Crimson Praetor Chestplate
 item.crimson_praetor_legs.name=Crimson Praetor Greaves
 item.thaumostatic_harness.name=Thaumostatic Harness
-item.traveller_boots.name=Boots of the Traveller
+item.traveller_boots.name=Ботинки Путешественника
 #
-# Tools
+# Инструменты
 #
 item.scribing_tools.name=Письменные принадлежности
-item.thaumium_shovel.name=Thaumium Shovel
-item.thaumium_axe.name=Thaumium Axe
-item.thaumium_sword.name=Thaumium Sword
-item.thaumium_pick.name=Thaumium Pickaxe
-item.thaumium_hoe.name=Thaumium Hoe
+item.thaumium_shovel.name=Таум Лопата
+item.thaumium_axe.name=Таум Топор
+item.thaumium_sword.name=Таум Меч
+item.thaumium_pick.name=Таум Кирка
+item.thaumium_hoe.name=Таум Мотыга
 item.elemental_shovel.name=Shovel of the Earthmover
 item.elemental_pick.name=Pickaxe of the Core
 item.elemental_axe.name=Axe of the Stream
-item.elemental_hoe.name=Hoe of Growth
+item.elemental_hoe.name=Мотыга Роста
 item.elemental_sword.name=Sword of the Zephyr
-item.void_shovel.name=Void Shovel
-item.void_axe.name=Void Axe
-item.void_sword.name=Void Sword
-item.void_pick.name=Void Pickaxe
-item.void_hoe.name=Void Hoe
+item.void_shovel.name=Пустотная Лопата
+item.void_axe.name=Пустотный Топор
+item.void_sword.name=Пустотный Меч
+item.void_pick.name=Пустотная Кирка
+item.void_hoe.name=Пустотная Мотыга
 item.crimson_blade.name=Crimson Blade
 item.primal_crusher.name=Primal Crusher
-item.hand_mirror.name=Magic Hand Mirror
+item.hand_mirror.name=Ручное Магическое Зеркало
 item.thaumometer.name=Таумометр
 item.sanity_checker.name=Счётчик рассудка
 item.resonator.name=Essentia Resonator
@@ -178,8 +178,8 @@ item.baubles.amulet_fancy.name=Fancy Amulet
 item.baubles.ring_fancy.name=Fancy Ring
 item.baubles.girdle_fancy.name=Fancy Belt
 item.amulet_vis.text=Recharges armor, baubles & hotbar items
-item.amulet_vis.found.name=Vis Stone
-item.amulet_vis.crafted.name=Amulet of Vis
+item.amulet_vis.found.name=Камень Вис
+item.amulet_vis.crafted.name=Амулет Вис
 item.girdle_hover.name=Thaumostatic Girdle
 item.verdant_charm.name=Verdant Heart Charm
 item.verdant_charm.life.text=Lifegiver
@@ -193,27 +193,27 @@ item.charm_undying.name=Charm of Undying
 # Casters & Foci
 #
 item.caster_basic.name=Перчатка заклинателя
-item.focus_1.name=Blank Lesser Focus
-item.focus_2.name=Blank Advanced Focus
-item.focus_3.name=Blank Greater Focus
+item.focus_1.name=Пустой Малый Фокус
+item.focus_2.name=Пустой Расширенный Фокус
+item.focus_3.name=Пустой Большой Фокус
 item.Focus.cost1=Vis per cast
 item.focus_pouch.name=Focus Pouch
 #
 #
-# Misc
+# Разное
 #
 item.creative_flux_sponge.name=Flux Sponge
-item.turret.basic.name=Automated Crossbow
-item.turret.advanced.name=Advanced Automated Crossbow
-item.turret.bore.name=Arcane Bore
-item.enchanted_placeholder.name=Any enchanted item
+item.turret.basic.name=Автоматический Арбалет
+item.turret.advanced.name=Улучшенный Автоматический Арбалет
+item.turret.bore.name=Магический Бур
+item.enchanted_placeholder.name=Любой зачарованный предмет
 item.enchanted_placeholder.text=Must have at least these enchantments:
 #
-# Golem
+# Голем
 item.module.vision.name=Vision Module
-item.module.aggression.name=Aggression Module
+item.module.aggression.name=Агрессивный Модуль
 item.golem_bell.name=Golemancer's Bell
-item.golem.name=Golem
+item.golem.name=Голем
 item.seal.blank.name=Blank Seal
 item.seal.pickup.name=Control Seal: Collect
 item.seal.pickup_advanced.name=Advanced Control Seal: Collect
@@ -230,10 +230,10 @@ item.seal.breaker.name=Control Seal: Block Breaker
 item.seal.use.name=Control Seal: Use
 item.seal.provider.name=Control Seal: Provide
 #
-# Blocks
+# Блоки
 ###################################
 #
-# World
+# Мир
 #
 tile.ore_amber.name=Янтароносный камень
 tile.ore_cinnabar.name=Киноварь
@@ -258,7 +258,7 @@ tile.stairs_greatwood.name=Ступеньки из великого дерева
 tile.stairs_silverwood.name=Ступеньки из серебряного дерева
 tile.stone_arcane.name=Arcane Stone
 tile.stone_arcane_brick.name=Arcane Stone Brick
-tile.stone_ancient.name=Ancient Stone
+tile.stone_ancient.name=Древний Камень
 tile.stone_ancient_rock.name=Ancient Rock
 tile.stone_eldritch_tile.name=Eldritch Stone
 tile.stone_ancient_tile.name=Ancient Stone Tile
@@ -281,12 +281,12 @@ tile.shimmerleaf.name=Мерцающий лист
 tile.cinderpearl.name=Тлеющая жемчужина
 tile.vishroom.name=Висомор
 tile.grass_ambient.name=Ambient Grass Block
-tile.loot_urn_common.name=Common Urn
-tile.loot_urn_uncommon.name=Uncommon Urn
-tile.loot_urn_rare.name=Rare Urn
-tile.loot_crate_common.name=Common Crate
-tile.loot_crate_uncommon.name=Uncommon Crate
-tile.loot_crate_rare.name=Rare Crate
+tile.loot_urn_common.name=Обычная Урна
+tile.loot_urn_uncommon.name=Необычная Урна
+tile.loot_urn_rare.name=Редкая Урна
+tile.loot_crate_common.name=Обычный Ящик
+tile.loot_crate_uncommon.name=Необычный Ящик
+tile.loot_crate_rare.name=Редкий Ящик
 tile.flux_goo.name=Flux Goo
 tile.taint_fibre.name=Fibrous Taint
 tile.taint_crust.name=Crusted Taint
@@ -295,7 +295,7 @@ tile.taint_geyser.name=Taint Geyser
 tile.taint_rock.name=Tainted Rock
 tile.taint_feature.name=Swollen Taint
 #
-# Devices
+# Приборы
 #
 tile.dioptra.name=Thaumic Dioptra
 tile.pillar_arcane.name=Infusion Pillar
@@ -315,12 +315,12 @@ tile.arcane_ear_toggle.name=Arcane Ear (Toggle)
 tile.levitator.name=Arcane Levitator
 tile.everfull_urn.name=Everfull Urn
 tile.lamp_arcane.name=Arcane Lamp
-tile.lamp_growth.name=Lamp of Growth  
+tile.lamp_growth.name=Лампа Роста 
 tile.lamp_fertility.name=Lamp of Fertility
 tile.jar_normal.name=Warded Jar
 tile.jar_void.name=Void Jar
-tile.jar_brain.name=Brain in a Jar
-tile.tube.name=Essentia Tube
+tile.jar_brain.name=Мозг в Банке
+tile.tube.name=Труба Эссенций
 tile.tube_valve.name=Essentia Valve
 tile.tube_filter.name=Filtered Essentia Tube
 tile.tube_restrict.name=Restricted Essentia Tube
@@ -333,7 +333,7 @@ tile.alembic.name=Arcane Alembic
 tile.smelter_aux.name=Auxiliary Slurry Pump
 tile.smelter_vent.name=Auxiliary Venting Port
 tile.recharge_pedestal.name=Recharge Pedestal
-tile.hungry_chest.name=Hungry Chest
+tile.hungry_chest.name=Голодный Сундук
 tile.spa.name=Arcane Spa
 tile.thaumatorium.name=Thaumatorium
 tile.thaumatorium_top.name=Thaumatorium
@@ -346,7 +346,7 @@ tile.potion_sprayer.name=Potion Sprayer
 # Doodads
 tile.matrix_speed.name=Infusion Speed Stone
 tile.matrix_cost.name=Infusion Cost Stone
-tile.table_stone.name=Stone Table
+tile.table_stone.name=Каменный Стол
 tile.table_wood.name=Деревянный стол
 tile.candle_white.name=White Tallow Candle
 tile.candle_orange.name=Orange Tallow Candle
@@ -368,22 +368,22 @@ tile.pedestal_arcane.name=Arcane Pedestal
 tile.pedestal_eldritch.name=Eldritch Pedestal
 tile.pedestal_ancient.name=Ancient Pedestal
 tile.banner_crimson_cult.name=Crimson Cult Banner
-tile.banner_white.name=White Banner
-tile.banner_orange.name=Orange Banner
+tile.banner_white.name=Белое Знамя
+tile.banner_orange.name=Оранжевое Знамя
 tile.banner_magenta.name=Magenta Banner
 tile.banner_lightblue.name=Light Blue Banner
-tile.banner_yellow.name=Yellow Banner
-tile.banner_lime.name=Lime Banner
-tile.banner_pink.name=Pink Banner
-tile.banner_gray.name=Gray Banner
+tile.banner_yellow.name=Жёлтое Знамя
+tile.banner_lime.name=Лаймовое Знамя
+tile.banner_pink.name=Розовое Знамя
+tile.banner_gray.name=Серое Знамя
 tile.banner_silver.name=Light Gray Banner
 tile.banner_cyan.name=Cyan Banner
-tile.banner_purple.name=Purple Banner
-tile.banner_blue.name=Blue Banner
+tile.banner_purple.name=Фиолетовое Знамя
+tile.banner_blue.name=Синее Знамя
 tile.banner_brown.name=Brown Banner
-tile.banner_green.name=Green Banner
-tile.banner_red.name=Red Banner
-tile.banner_black.name=Black Banner
+tile.banner_green.name=Зеленое Знамя
+tile.banner_red.name=Красное Знамя
+tile.banner_black.name=Чёрное Знамя
 tile.nitor_white.name=Белый нитор
 tile.nitor_orange.name=Оранжевый нитор
 tile.nitor_magenta.name=Пурпурный нитор
@@ -409,11 +409,11 @@ tile.flesh_block.name=Block of Flesh
 tile.paving_stone_barrier.name=Barrier Stone
 tile.paving_stone_travel.name=Paving Stone of Travel
 tile.centrifuge.name=Essentia Centrifuge
-tile.mirror.name=Magic Mirror
+tile.mirror.name=Магическое Зеркало
 tile.mirror_essentia.name=Essentia Mirror
-tile.golem_builder.name=Golem Press
+tile.golem_builder.name=Пресс Големов
 #
-# Misc
+# Разное
 tile.effect_shock.name=Static Field
 tile.effect_sap.name=Sapping Field
 tile.effect_glimmer.name=Glimmer
@@ -421,10 +421,10 @@ tile.purifying_fluid.name=Purifying Fluid
 tile.liquid_death.name=Liquid Death
 tile.placeholder_brick.name=Infernal Furnace
 tile.placeholder_obsidian.name=Infernal Furnace
-tile.placeholder_anvil.name=Golem Press
-tile.placeholder_table.name=Golem Press
-tile.placeholder_bars.name=Golem Press
-tile.placeholder_cauldron.name=Golem Press
+tile.placeholder_anvil.name=Пресс Големов
+tile.placeholder_table.name=Пресс Големов
+tile.placeholder_bars.name=Пресс Големов
+tile.placeholder_cauldron.name=Пресс Големов
 tile.hole.name=Dimensional Tear
 tile.barrier.name=Warding Aura
 #
@@ -443,7 +443,7 @@ enchantment.infusion.REFINING=Refining
 enchantment.infusion.ARCING=Arcing
 enchantment.infusion.ESSENCE=Essence Harvester
 #
-# Potions
+# Зелья
 ###################################
 potion.flux_taint=Taint Poison
 potion.soulshatter=Soul Shatter
@@ -477,10 +477,10 @@ warp.text.14=You have a moment of clarity.
 warp.text.15=Your stomach suddenly gurgles very strangely.
 warp.text.16=The faint sound of chanting can be heard nearby.
 #
-# Entities
+# Существа
 ###################################
 entity.ArcaneBore.name=Arcane Bore
-entity.Golem.name=Golem
+entity.Golem.name=Голем
 entity.ThaumSlime.name=Таум-слизень
 entity.GolemDart.name=Golem Dart
 entity.PrimalArrow.name=Primal Arrow
@@ -489,10 +489,10 @@ entity.ExplosiveOrb.name=Explosive Fireball
 entity.ShockOrb.name=Shocking Orb
 entity.GolemOrb.name=Energy Orb
 entity.BottleTaint.name=Bottled Taint
-entity.Firebat.name=Firebat
+entity.Firebat.name=Огненная Летучая Мышь
 entity.Spellbat.name=Spellbat
-entity.Wisp.name=Wisp
-entity.Alumentum.name=Alumentum
+entity.Wisp.name=Висп
+entity.Alumentum.name=Алюментум
 entity.GiantBrainyZombie.name=Яростный зомби
 entity.BrainyZombie.name=Злобный зомби
 entity.FollowItem.name=Following Item
@@ -578,10 +578,10 @@ tile.eldritch.crabspawner.name=Crusted Opening
 
 
 #
-# Items
+# Предметы
 ###################################
 #
-# Misc
+# Разное
 item.tainted.slime.name=Tainted Goo
 item.tainted.tendril.name=Taint Tendril
 item.coin.name=Gold Coin
@@ -602,16 +602,16 @@ item.creative_placer.caster.name=Ancient Autocaster Placer
 
 
 #
-# Text
+# Текст
 research.complete=Исследование завершено!
 item.runic.charge=Runic shield
 item.warping=Warping
 item.capacity.text=Capacity
 item.chargebonus.text=Charge
 #
-# Golems 
+# Големы 
 ########################
-# Traits
+# Черты
 golem.trait.deft=Deft
 golem.trait.text.deft=This golem has a great deal of manual dexterity and can perform tasks requiring precision and a delicate touch. Counters and countered by Clumsy.
 golem.trait.clumsy=Clumsy
@@ -652,9 +652,9 @@ golem.trait.blastproof=Blastproof
 golem.trait.text.blastproof=The golem is highly resistant to explosion damage.
 #
 # Props 
-golem.material.wood=Greatwood
+golem.material.wood=Великое Дерево
 golem.material.text.wood=The golem is crafted from greatwood. It is light and agile, but not particularly sturdy.
-golem.material.iron=Iron
+golem.material.iron=Железо
 golem.material.text.iron=The golem is crafted from iron. It is sturdy and fireproof, but heavy.
 golem.material.brass=Brass
 golem.material.text.brass=The golem is crafted from brass. It is not as sturdy as iron nor as resistant to fire. Normally brass is heavier than iron, but it allows for superior construction methods which results in a much lighter frame.
@@ -687,9 +687,9 @@ golem.arm.text.breakers=These arms end in a pair of pneumatic, diamond tipped gr
 golem.arm.darts=Dart launchers
 golem.arm.text.darts=These arms end in a pair of pneumatic dart launchers. The darts are magically created as they are needed. Comes with a built-in aggression module.
 #
-golem.leg.walker=Basic legs
+golem.leg.walker=Обычные Ноги
 golem.leg.text.walker=A pair of simple legs. No particular strengths or weaknesses.
-golem.leg.roller=Uni-wheel 
+golem.leg.roller=Колесо 
 golem.leg.text.roller=A single wheel. Quite fast, but incapable of jumping or going up steep hills.
 golem.leg.climber=Climbing legs
 golem.leg.text.climber=A pair of simple legs enhanced with crampons and other devices allowing for vertical ascent.
